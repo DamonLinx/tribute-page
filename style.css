@@ -1,0 +1,102 @@
+.background {
+  background-image: url("http://vignette1.wikia.nocookie.net/brutallegend/images/a/ae/EddieRiggs4.jpg/revision/latest?cb=20090908215050");
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 1050px;
+  margin: auto;
+  background-size: contain;
+}
+
+h1 {
+  font-family: comic sans ms;
+  font-size: 75px;
+  color: black;
+  text-align: center;
+}
+.container {
+  margin: auto;
+  width: 90%;
+}
+.image-position1 {
+  transform: rotate(-9deg);
+  border: 10px solid black;
+  position: relative;
+  top: 225px;
+  right: -45px;
+}
+.image-position2 {
+  transform: rotate(9deg);
+  border: 10px solid red;
+  position: relative;
+  top: 225px;
+  left: 900px;
+}
+.image-position3 {
+  border: 10px solid orange;
+  position: relative;
+  top: 700px;
+  right: -250px;
+}
+.scale-down {
+  width: 100px;
+  margin-left: 80px;
+  margin-top: 0px;
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+.image-size {
+  width: 200px;
+}
+
+.p1 {
+  color: #000000;
+  margin-top: 25px;
+  margin-right: 100px;
+  margin-left: 200px;
+  font-size: 20px;
+  background-color: #ffffe0;
+}
+p {
+  text-indent: 50px;
+}
+.p2 {
+  color: #000000;
+  margin-top: 25px;
+  font-size: 20px;
+  margin-right: 100px;
+  margin-left: 80px;
+}
+.image-size2 {
+  width: 300px;
+  margin-left: 80px;
+}
+.p3 {
+  color: #000000;
+  margin-top: 25px;
+  font-size: 20px;
+  margin-right: 100px;
+  margin-left: 420px;
+}
+.p4 {
+  color: #000000;
+  margin-top: 25px;
+  font-size: 20px;
+  margin-left: 80px;
+  margin-right: 420px;
+}
+.image-size3 {
+  margin-top: 0px;
+  width: 300px;
+  margin-right: 80px;
+}
+.image-final {
+  padding-top: 45px;
+  padding-bottom: 100px;
+  margin-left: 450px;
+}
